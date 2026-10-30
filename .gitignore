@@ -4,3 +4,6 @@ _build/
 .venv/
 Lab*.ipynb
 lab*.ipynb
+
+# MyST build outputs
+_build
