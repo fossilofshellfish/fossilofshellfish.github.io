@@ -1,3 +1,11 @@
-# [fossilofshellfish]'s Portfolio
+# fossilofshellfish's Portfolio
 
-Welcome! Work in progress.
+Welcome to my Computing in Context portfolio.
+
+## Projects
+
+- [Project 1: How Has Life Expectancy Changed Around the World?](./project1.ipynb) — Descriptive statistics with pandas, manual Python implementations, and a text-based visualization.
+
+## Course work
+
+- [Lecture 16 example](./lecture_16_example.ipynb)
